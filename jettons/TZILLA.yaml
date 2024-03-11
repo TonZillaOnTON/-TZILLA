@@ -1,0 +1,11 @@
+name: TonZilla Official
+description: First dragon on TON
+image: "https://i.postimg.cc/VLRBb0Kc/tonzilla-logo-def.jpg"
+address: 0:5c960abb39f51de14e76f1eef2a3f1dc74563a12bb5df26c4345f591083c4c43
+symbol: TZILLA
+max_supply: 100000000
+websites:
+  - "http://tonzillaonton.com/"
+social:
+  - "https://t.me/TonZillaPortal"
+  - "https://twitter.com/TonZillaOnTon"
